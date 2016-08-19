@@ -9,3 +9,5 @@ This is my solutions for the exercise: <b>Project: Serialization and Working wit
 	<li>I3: Using Sunlight - ✅</li>
 	<li>I4: Form Letters - ✅</li>
 </ol>
+
+<i>link: http://tutorials.jumpstartlab.com/projects/eventmanager.html</i>
