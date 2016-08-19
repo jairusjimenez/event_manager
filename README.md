@@ -6,6 +6,6 @@ This is my solutions for the exercise: <b>Project: Serialization and Working wit
 	<li>I0: Loading a File - ✅</li>
 	<li>I1: Parsing with CSV - ✅</li>
 	<li>I2: Cleaning up our Zip Codes - ✅</li>
-	<li>I3: Using Sunlight</li>
+	<li>I3: Using Sunlight - ✅</li>
 	<li>I4: Form Letters - ✅</li>
 </ol>
